@@ -16,3 +16,4 @@
    - [alerter-staging.twiagemed.net](http://alerter-staging.twiagemed.net)
    - [stat-staging.twiagemed.net](http://stat-staging.twiagemed.net)
    - [twiage-central-staging.twiagemed.net](http://twiage-central-staging.twiagemed.net)
+   - [global-admin-panel](gap-staging.twiagemed.net)
